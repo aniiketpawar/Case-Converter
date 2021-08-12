@@ -1,0 +1,24 @@
+#upper-case{
+    background-color: orange;
+}
+
+#lower-case{
+    background-color: orange;
+}
+
+#proper-case{
+    background-color: orange;
+}
+
+#sentence-case{
+    background-color: orange;
+}
+
+#save-text-file{
+    background-color: orange;
+}
+
+textarea{
+    width: 50vh;
+    height: 50vh;
+}
